@@ -1,1 +1,2 @@
-# SOUDARAVISETH
+/api/bookings/
+/api/registration/
